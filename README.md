@@ -56,7 +56,7 @@ This assignment will require you to sign up for an account with [OpenWeather](ht
     - The method must parse out the required fields for the generative constructor and use the generative constructor to produce the object to return
   - Must override the `toString()` method to return a string in the following format:
     - `City: <city>, Description: <description>, Current Temperature: <currentTemp>, Current Time: <currentTime>, Sunrise: <sunrise>, Sunset: <sunset>'` where the angle brackets/values must be replaced with the actual member values.
-  - **NOTE: you will need to think about validation for the sunrise and sunset members in the constructor and the setters, since one necessisarily relies of the value of the other.**
+  - **NOTE: you will need to think about validation for the sunrise and sunset members in the constructor and the setters, since one necessarily relies of the value of the other.**
 
 ## Submission Requirements
 
